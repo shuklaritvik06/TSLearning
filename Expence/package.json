@@ -1,0 +1,19 @@
+{
+  "name": "expence",
+  "version": "1.0.0",
+  "description": "Expense Regulator app",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shuklaritvik06/typeScriptProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shuklaritvik06/typeScriptProject/issues"
+  },
+  "homepage": "https://github.com/shuklaritvik06/typeScriptProject#readme"
+}
