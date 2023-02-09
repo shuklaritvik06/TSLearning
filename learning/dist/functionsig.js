@@ -7,3 +7,4 @@ let myFunc2;
 myFunc2 = function (a, b) {
     return a.c + a.d + b;
 };
+//# sourceMappingURL=functionsig.js.map

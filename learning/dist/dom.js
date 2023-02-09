@@ -8,3 +8,4 @@ console.log(numInput.valueAsNumber);
 button.addEventListener('click', (e) => {
     console.log(textInput.value);
 });
+//# sourceMappingURL=dom.js.map

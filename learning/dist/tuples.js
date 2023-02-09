@@ -5,3 +5,4 @@ let tup = [
     "World"
 ];
 console.log(tup);
+//# sourceMappingURL=tuples.js.map

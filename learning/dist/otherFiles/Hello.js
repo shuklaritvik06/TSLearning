@@ -12,3 +12,4 @@ export class Hello {
         return this.salary;
     }
 }
+//# sourceMappingURL=Hello.js.map

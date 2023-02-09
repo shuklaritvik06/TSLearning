@@ -24,3 +24,4 @@ obj2 = {
 let myarray = [1, 'hello', true];
 let mytuple = ['hello', 23, true];
 let unionArray = [1, 'hello', true];
+//# sourceMappingURL=types.js.map

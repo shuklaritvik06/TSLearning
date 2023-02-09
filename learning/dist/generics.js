@@ -9,3 +9,4 @@ const humanA = {
     salary: Infinity,
     kids: 2
 };
+//# sourceMappingURL=generics.js.map

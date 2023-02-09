@@ -10,3 +10,4 @@ class HelloTwo {
     }
 }
 const greetTwo = new HelloTwo('World');
+//# sourceMappingURL=oops.js.map

@@ -10,3 +10,4 @@ const person = {
     }
 };
 console.log(person.printDetails(person));
+//# sourceMappingURL=interfaces.js.map
